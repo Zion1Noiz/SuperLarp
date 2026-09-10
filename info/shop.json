@@ -1,0 +1,28 @@
+{
+    "items": [
+        {
+            "id": "vip",
+            "name": "VIP Role",
+            "description": "A shiny colour and bragging rights.",
+            "emoji": "⭐",
+            "price": 25000,
+            "role_id": null
+        },
+        {
+            "id": "qotd_pick",
+            "name": "Zion you have to fix this",
+            "description": "I can edit the shop from another server",
+            "emoji": "⚠️⚠️⚠️⚠️",
+            "price": 100000000000000000000,
+            "role_id": null
+        },
+        {
+            "id": "custom_role_icon",
+            "name": "Custom Role",
+            "description": "Design your own role - name, colour, and a role icon. Needs mod approval, then it's yours to keep.",
+            "emoji": "🎨",
+            "price": 60000,
+            "role_id": null
+        }
+    ]
+}

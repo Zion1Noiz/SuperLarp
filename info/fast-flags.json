@@ -1,0 +1,12 @@
+{
+    "VentChannelAccessMode":"Public",
+    "PrivateVCAccessMode": "Closed",
+    "ConfessionsCommandAccessMode": "Closed",
+    
+    "PrivateVCCategoryID":1533883181890277437,
+    "MemberRoleID": 1502134163535433809,
+    "AlphaModRoleID": 1526822799337984122,
+    "BetaModRoleID": 1526828189001846815,
+    "OwnerRoleID": 1527128285899915336
+}
+

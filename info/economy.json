@@ -1,0 +1,57 @@
+{
+    "771944696867586070": {
+        "balance": 1001,
+        "total_wagered": 0,
+        "total_won": 0,
+        "total_lost": 0,
+        "wins": 0,
+        "losses": 0,
+        "inventory": []
+    },
+    "1004272106479038544": {
+        "balance": 1000,
+        "total_wagered": 4000,
+        "total_won": 2750,
+        "total_lost": 1250,
+        "wins": 2,
+        "losses": 2,
+        "inventory": []
+    },
+    "1133694274093985792": {
+        "balance": 1000,
+        "total_wagered": 5000,
+        "total_won": 2750,
+        "total_lost": 2250,
+        "wins": 2,
+        "losses": 2,
+        "inventory": [
+            {
+                "id": "custom_role_icon",
+                "name": "Custom Role",
+                "price": 60000,
+                "purchased_at": "2026-08-31T08:13:15.845066+00:00"
+            },
+            {
+                "id": "qotd_pick",
+                "name": "QOTD Pick",
+                "price": 7500,
+                "purchased_at": "2026-08-31T08:13:35.065754+00:00"
+            },
+            {
+                "id": "vip",
+                "name": "VIP Role",
+                "price": 25000,
+                "purchased_at": "2026-08-31T08:13:50.548356+00:00"
+            }
+        ]
+    },
+    "1009237940263727115": {
+        "balance": 1000,
+        "total_wagered": 0,
+        "total_won": 0,
+        "total_lost": 0,
+        "wins": 0,
+        "losses": 0,
+        "inventory": []
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "1507752628765851748": {
+        "strikes": [],
+        "d_name": "ms meaty",
+        "username": "mrsmeatyyy",
+        "warnings": []
+    },
+    "1022618657987248269": {
+        "strikes": [],
+        "d_name": "kanopowered",
+        "username": "bellasonly",
+        "warnings": []
+    },
+    "1004272106479038544": {
+        "strikes": [],
+        "d_name": "zion553",
+        "username": "zion553",
+        "warnings": [],
+        "private_vc": {}
+    },
+    "771944696867586070": {
+        "strikes": {},
+        "d_name": "Daniel",
+        "username": "funbunv2",
+        "warnings": [
+            {
+                "reason": "unspecified reason",
+                "timestamp": 1785478874.6949987,
+                "responsible_moderator": 1009237940263727115,
+                "warning-id": "dcb97a22-f686-449c-bb2f-801fd54cee55"
+            }
+        ]
+    },
+    "1133694274093985792": {
+        "strikes": {},
+        "d_name": "filename42 [CEM]",
+        "username": "freakyjdw",
+        "warnings": [
+            {
+                "reason": "sexual topics",
+                "timestamp": 1785395909.6004384,
+                "responsible_moderator": 1004272106479038544,
+                "warning-id": "54901f59-1caa-4583-8752-6816c2723ab5"
+            }
+        ]
+    },
+    "1181351472055718033": {
+        "strikes": {},
+        "d_name": "SharkLover",
+        "username": "sharklover9876",
+        "warnings": [
+            {
+                "reason": "sending suggestive pictures",
+                "timestamp": 1785398884.1255429,
+                "responsible_moderator": 1004272106479038544,
+                "warning-id": "643b6b8a-6208-4aec-ada0-1f671c59b8d2"
+            }
+        ]
+    },
+    "991930071176720394": {
+        "strikes": [
+            {
+                "reason": "continuing to break rules despite being warned countless times",
+                "timestamp": 1786823293.6236925,
+                "responsible_moderator": 1004272106479038544,
+                "strike-id": "16319603-a556-402d-adee-cb73988f5147"
+            },
+            {
+                "reason": "conner admitted to not reading rules, not taking the venting channel seriously, and more.",
+                "timestamp": 1788155699.985103,
+                "responsible_moderator": 1009237940263727115,
+                "strike-id": "a807af13-7ee0-4e02-85d4-3baed7ef23a4"
+            }
+        ],
+        "d_name": "conner check ur dms.",
+        "username": "street.ghost.",
+        "warnings": [
+            {
+                "reason": "not reading rules and sending a gif that has been deleted by mods multiple times",
+                "timestamp": 1785479513.5525217,
+                "responsible_moderator": 1004272106479038544,
+                "warning-id": "6e22fd48-c608-44bf-be09-02bf3a141065"
+            },
+            {
+                "reason": "sexual/ explicit content.",
+                "timestamp": 1786658849.1237457,
+                "responsible_moderator": 789202343819739158,
+                "warning-id": "3e39148c-fc8b-4d13-9f1e-0f6c3dc92ad7"
+            },
+            {
+                "reason": "sexual stuff, saying slurs",
+                "timestamp": 1786818547.1271908,
+                "responsible_moderator": 1009237940263727115,
+                "warning-id": "2889dc67-c5f7-4208-a8c3-505e879bb20a"
+            }
+        ]
+    },
+    "1500384895913037854": {
+        "strikes": {},
+        "d_name": "mr meaty",
+        "username": "mrmeatyslap34",
+        "warnings": [
+            {
+                "reason": "Testing",
+                "timestamp": 1785523196.1130102,
+                "responsible_moderator": 1004272106479038544,
+                "warning-id": "135d3ad5-ae0e-4f18-be29-8dc62905725e"
+            }
+        ]
+    },
+    "1189039167208968243": {
+        "strikes": {},
+        "d_name": "\u262f SGT. Stupid \u262f",
+        "username": "logan_simbiote",
+        "warnings": [
+            {
+                "reason": "unspecified reason",
+                "timestamp": 1786228791.1873257,
+                "responsible_moderator": 1009237940263727115,
+                "warning-id": "1626299d-42c3-4856-8384-7f1829731a34"
+            },
+            {
+                "reason": "sending sexual content, media, or messages in our server is NOT okay Mr. Logan Simbiote. Please think about your actions.",
+                "timestamp": 1786245127.490143,
+                "responsible_moderator": 789202343819739158,
+                "warning-id": "a1910907-4f84-4b20-af77-cc7dd4f2e0ca"
+            }
+        ]
+    },
+    "1033768780557459507": {
+        "strikes": {},
+        "d_name": "Blossoms wifey and cutie pie",
+        "username": "cruziz",
+        "warnings": [
+            {
+                "reason": "slurs. yo why tf u sayin slurs. just cuz ur blossoms wife don\u2019t mean u get to do what u want. you will be executed August 18th, 2026 at 6:45 PST.",
+                "timestamp": 1787019455.1515746,
+                "responsible_moderator": 789202343819739158,
+                "warning-id": "7c3cb130-a6d0-44c8-ac4d-f985caaac5fb"
+            },
+            {
+                "reason": "benson boone said you needed to be warned for sexual/explicit content in voice chat channels so bye \u270c\ufe0f",
+                "timestamp": 1787019728.9454591,
+                "responsible_moderator": 789202343819739158,
+                "warning-id": "d47dc5b6-9c01-42c8-910d-5a95af8475a1"
+            },
+            {
+                "reason": "telling others to hurt themselves",
+                "timestamp": 1787024614.5082054,
+                "responsible_moderator": 1004272106479038544,
+                "warning-id": "5bc6d7e1-ebf6-40f1-8456-dc22ee52ae8d"
+            }
+        ]
+    }
+}
